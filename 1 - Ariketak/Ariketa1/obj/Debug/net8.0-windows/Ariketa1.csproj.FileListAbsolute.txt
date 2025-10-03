@@ -1,0 +1,38 @@
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1_MarkupCompile.cache
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.g.resources
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.AssemblyInfoInputs.cache
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.AssemblyInfo.cs
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.csproj.CoreCompileInputs.cache
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.exe
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.deps.json
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.runtimeconfig.json
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.dll
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.pdb
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.dll
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\refint\Ariketa1.dll
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.pdb
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.genruntimeconfig.cache
+C:\Users\ik012982i18\source\repos\Interfazeen garapena\Ariketa1\obj\Debug\net8.0-windows\ref\Ariketa1.dll
+D:\DAM\DI\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.exe
+D:\DAM\DI\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.deps.json
+D:\DAM\DI\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.runtimeconfig.json
+D:\DAM\DI\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.dll
+D:\DAM\DI\Ariketa1\bin\Debug\net8.0-windows\Ariketa1.pdb
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\App.g.cs
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1_MarkupCompile.cache
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.g.resources
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.AssemblyInfoInputs.cache
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.AssemblyInfo.cs
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.csproj.CoreCompileInputs.cache
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.dll
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\refint\Ariketa1.dll
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.pdb
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\Ariketa1.genruntimeconfig.cache
+D:\DAM\DI\Ariketa1\obj\Debug\net8.0-windows\ref\Ariketa1.dll

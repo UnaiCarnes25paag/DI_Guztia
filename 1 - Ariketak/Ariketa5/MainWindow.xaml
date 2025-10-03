@@ -1,0 +1,36 @@
+﻿<Window x:Class="Ariketa5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ariketa5" Height="350" Width="600">
+    <StackPanel Margin="10">
+        <!-- Título -->
+        <TextBlock Text="texto de prueba" FontSize="20" FontWeight="Bold" Margin="0,0,0,10" HorizontalAlignment="Center"/>
+
+        <!-- Botones de tipo de letra -->
+        <WrapPanel HorizontalAlignment="Center" Margin="0,0,0,5">
+            <Button Content="Arial" Click="FontButton_Click" Tag="Arial" Margin="2"/>
+            <Button Content="Calibri" Click="FontButton_Click" Tag="Calibri" Margin="2"/>
+            <Button Content="Times New Roman" Click="FontButton_Click" Tag="Times New Roman" Margin="2"/>
+        </WrapPanel>
+        <!-- Botones de tipo de letra (segunda fila) -->
+        <WrapPanel HorizontalAlignment="Center" Margin="0,0,0,10">
+            <Button Content="Consolas" Click="FontButton_Click" Tag="Consolas" Margin="2"/>
+            <Button Content="Comic Sans MS" Click="FontButton_Click" Tag="Comic Sans MS" Margin="2"/>
+            <Button Content="Verdana" Click="FontButton_Click" Tag="Verdana" Margin="2"/>
+            <Button Content="A+" Click="IncreaseFontSize_Click" Margin="10,2,2,2"/>
+            <Button Content="A-" Click="DecreaseFontSize_Click" Margin="2"/>
+        </WrapPanel>
+
+        <!-- Zona de texto y botones Seleccionar/Salir -->
+        <DockPanel LastChildFill="False">
+            <TextBox x:Name="InputTextBox" Height="100" Width="350" AcceptsReturn="True" TextWrapping="Wrap" FontSize="16" Margin="0,0,10,0"/>
+            <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+                <Button Content="Seleccionar" Click="Seleccionar_Click" Margin="0,0,0,5" Width="100"/>
+                <Button Content="Salir" Click="Salir_Click" Width="100"/>
+            </StackPanel>
+        </DockPanel>
+
+        <!-- Resultado -->
+        <TextBlock x:Name="ResultTextBlock" Margin="0,15,0,0" FontWeight="Bold"/>
+    </StackPanel>
+</Window>
