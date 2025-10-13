@@ -1,0 +1,19 @@
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\bin\Debug\net8.0-windows\Ariketa 3.exe
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\bin\Debug\net8.0-windows\Ariketa 3.deps.json
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\bin\Debug\net8.0-windows\Ariketa 3.runtimeconfig.json
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\bin\Debug\net8.0-windows\Ariketa 3.dll
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\bin\Debug\net8.0-windows\Ariketa 3.pdb
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\App.g.cs
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3_MarkupCompile.cache
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.g.resources
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.AssemblyInfoInputs.cache
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.AssemblyInfo.cs
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.csproj.CoreCompileInputs.cache
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.dll
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\refint\Ariketa 3.dll
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.pdb
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\Ariketa 3.genruntimeconfig.cache
+D:\DAM\DI\1 - Ariketak\Ariketa 3\Ariketa 3\obj\Debug\net8.0-windows\ref\Ariketa 3.dll

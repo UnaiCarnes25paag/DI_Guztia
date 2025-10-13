@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tareas>
+  <Tarea id="1">
+    <Titulua>Ala3</Titulua>
+    <Lehentasuna>Altua</Lehentasuna>
+    <AzkenEguna>2025-10-13</AzkenEguna>
+    <Egoera>Egin gabe</Egoera>
+  </Tarea>
+  <Tarea id="3">
+    <Titulua>Ala5</Titulua>
+    <Lehentasuna>Baxua</Lehentasuna>
+    <AzkenEguna>2025-10-23</AzkenEguna>
+    <Egoera>Egin gabe</Egoera>
+  </Tarea>
+</Tareas>

@@ -1,0 +1,97 @@
+﻿<Window x:Class="Ariketa12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cálculo de Dietas" Height="420" Width="700"
+        PreviewKeyDown="Window_PreviewKeyDown">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Header="Dietas" Grid.Column="0" Margin="5">
+                <StackPanel Margin="10">
+                    <CheckBox x:Name="chkDesayuno" Content="Desayuno (3 €)" Checked="Recalcular" Unchecked="Recalcular" Margin="2"/>
+                    <CheckBox x:Name="chkComida" Content="Comida (9 €)" Checked="Recalcular" Unchecked="Recalcular" Margin="2"/>
+                    <CheckBox x:Name="chkCena" Content="Cena (15,5 €)" Checked="Recalcular" Unchecked="Recalcular" Margin="2"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Viajes" Grid.Column="1" Margin="5">
+                <StackPanel Margin="10">
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="Km:" Width="60" VerticalAlignment="Center"/>
+                        <TextBox x:Name="txtKm" Width="100" TextChanged="Recalcular"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="Horas:" Width="60" VerticalAlignment="Center"/>
+                        <TextBox x:Name="txtHorasViaje" Width="100" TextChanged="Recalcular"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Trabajo" Grid.Column="2" Margin="5">
+                <StackPanel Margin="10">
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="Horas:" Width="60" VerticalAlignment="Center"/>
+                        <TextBox x:Name="txtHorasTrabajo" Width="100" TextChanged="Recalcular"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+        </Grid>
+
+        <Separator Grid.Row="1" Margin="5"/>
+
+        <Grid Grid.Row="2" Margin="0,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="lblTotalDietas" Text="0 €" IsReadOnly="True"
+                     FontWeight="Bold" HorizontalContentAlignment="Center"
+                     Margin="10" Grid.Column="0"/>
+
+            <TextBox x:Name="lblTotalViajes" Text="0 €" IsReadOnly="True"
+                     FontWeight="Bold" HorizontalContentAlignment="Center"
+                     Margin="10" Grid.Column="1"/>
+
+            <TextBox x:Name="lblTotalTrabajo" Text="0 €" IsReadOnly="True"
+                     FontWeight="Bold" HorizontalContentAlignment="Center"
+                     Margin="10" Grid.Column="2"/>
+        </Grid>
+
+        <Separator Grid.Row="3" Margin="5"/>
+
+        <Grid Grid.Row="4" Margin="0,10,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">
+                <Button Content="Limpiar" Click="BtnLimpiar_Click" Height="30" Width="100" Margin="5"/>
+                <Button Content="Salir" Click="BtnSalir_Click" Height="30" Width="100" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Grid.Column="2" HorizontalAlignment="Right">
+                <TextBlock Text="TOTAL:" FontWeight="Bold" FontSize="14" VerticalAlignment="Center" Margin="5"/>
+                <TextBox x:Name="lblTotalGlobal" Text="0 €" IsReadOnly="True" Height="30"
+                         Width="120" FontWeight="Bold" Background="#FFDEEAF6"
+                         HorizontalContentAlignment="Center" Margin="5"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

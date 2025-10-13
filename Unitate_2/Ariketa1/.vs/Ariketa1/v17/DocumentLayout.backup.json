@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAM\\DI\\2UD\\Ariketa1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\views\\taskdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:views\\taskdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\views\\taskdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:views\\taskdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\infrastructure\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:infrastructure\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:infrastructure\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|d:\\dam\\di\\2ud\\ariketa1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDED74-44DB-4883-8E35-7B458B5DBE3E}|Ariketa1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Models\\Tarea.cs",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\Models\\Tarea.cs",
+              "RelativeToolTip": "Models\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:52:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\Infrastructure\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\TaskRepository.cs",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\Infrastructure\\TaskRepository.cs",
+              "RelativeToolTip": "Infrastructure\\TaskRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:53:40.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:53:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskDialog.xaml.cs",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\Views\\TaskDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TaskDialog.xaml.cs",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\Views\\TaskDialog.xaml.cs",
+              "RelativeToolTip": "Views\\TaskDialog.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:39:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskDialog.xaml",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\Views\\TaskDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\TaskDialog.xaml",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\Views\\TaskDialog.xaml",
+              "RelativeToolTip": "Views\\TaskDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-10T07:39:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\Infrastructure\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\RelayCommand.cs",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\Infrastructure\\RelayCommand.cs",
+              "RelativeToolTip": "Infrastructure\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:53:22.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-06T10:33:47.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:51:42.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\DAM\\DI\\2UD\\Ariketa1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\DAM\\DI\\2UD\\Ariketa1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-06T10:37:33.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

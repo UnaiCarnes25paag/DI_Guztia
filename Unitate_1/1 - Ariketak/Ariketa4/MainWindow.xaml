@@ -1,0 +1,31 @@
+﻿<Window x:Class="Ariketa4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Erabiltzaile - Pasahitza" Height="200" Width="350">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Erabiltzailea:" Grid.Row="0" Grid.Column="0" Margin="0,0,10,10" VerticalAlignment="Center"/>
+        <TextBox x:Name="UsernameTextBox" Grid.Row="0" Grid.Column="1" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Pasahitza:" Grid.Row="1" Grid.Column="0" Margin="0,0,10,10" VerticalAlignment="Center"/>
+        <PasswordBox x:Name="PasswordBox" Grid.Row="1" Grid.Column="1" Margin="0,0,0,10"/>
+
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+            <Button Content="Sartu" Width="75" Margin="0,0,10,0" Click="LoginButton_Click"/>
+            <Button Content="Limpiar" Width="75" Margin="0,0,10,0" Click="LimpiarButton_Click"/>
+            <Button Content="Salir" Width="75" Click="SalirButton_Click"/>
+        </StackPanel>
+
+        <Label x:Name="ResultLabel" Grid.Row="3" Grid.ColumnSpan="2" FontWeight="Bold"/>
+    </Grid>
+</Window>

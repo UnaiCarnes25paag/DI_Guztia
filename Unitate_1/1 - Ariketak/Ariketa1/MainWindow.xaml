@@ -1,0 +1,82 @@
+﻿<Window x:Class="Ariketa1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cálculo de fórmula matemática"
+        Height="360" Width="370"
+        ResizeMode="CanResize"
+        WindowStyle="None"
+        Background="#FFE0E0E0">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <!-- Barra superior -->
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto" MinHeight="39.96"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="163.333"/>
+            <ColumnDefinition Width="6.667"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Barra superior: título y botones de ventana -->
+        <Grid Grid.Row="0" Grid.ColumnSpan="3" Background="#FFE0E0E0" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Cálculo de fórmula matemática"
+                       VerticalAlignment="Center"
+                       FontWeight="Bold"
+                       FontSize="16"
+                       Margin="8,0,0,0"/>
+            <StackPanel Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+                <Button Content="🗕" Width="28" Height="24" Margin="2,0" Click="Minimize_Click"/>
+                <Button Content="🗖" Width="28" Height="24" Margin="2,0" Click="MaximizeRestore_Click"/>
+                <Button Content="✖" Width="28" Height="24" Margin="2,0" Click="Close_Click" Background="#D32F2F" Foreground="White"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Primer Número -->
+        <Label Content="Primer Número" Grid.Row="1" Grid.Column="0" 
+               Background="#800000" Foreground="White" FontWeight="Bold" 
+               HorizontalContentAlignment="Center" Margin="0,10,3,10"/>
+        <TextBox x:Name="txtNum1" Grid.Row="1" Grid.Column="2" Margin="0,10,0,10"/>
+
+        <!-- Segundo Número -->
+        <Label Content="Segundo Número" Grid.Row="2" Grid.Column="0" 
+               Background="#800000" Foreground="White" FontWeight="Bold" 
+               HorizontalContentAlignment="Center" Margin="0,10,3,10"/>
+        <TextBox x:Name="txtNum2" Grid.Row="2" Grid.Column="2" Margin="0,10,0,10"/>
+
+        <!-- Tercer Número -->
+        <Label Content="Tercer Número" Grid.Row="3" Grid.Column="0" 
+               Background="#800000" Foreground="White" FontWeight="Bold" 
+               HorizontalContentAlignment="Center" Margin="0,10,3,10"/>
+        <TextBox x:Name="txtNum3" Grid.Row="3" Grid.Column="2" Margin="0,10,0,10"/>
+
+        <!-- Cuarto Número -->
+        <Label Content="Cuarto Número" Grid.Row="4" Grid.Column="0" 
+               Background="#800000" Foreground="White" FontWeight="Bold" 
+               HorizontalContentAlignment="Center" Margin="0,10,3,10"/>
+        <TextBox x:Name="txtNum4" Grid.Row="4" Grid.Column="2" Margin="0,10,0,10"/>
+
+        <!-- Resultado -->
+        <Label Content="RESULTADO" Grid.Row="5" Grid.Column="0" 
+               Background="#1A237E" Foreground="White" FontWeight="Bold" 
+               HorizontalContentAlignment="Center" Margin="0,10,3,10"/>
+        <TextBox x:Name="txtResultado" Grid.Row="5" Grid.Column="2" Margin="0,10,0,40" IsReadOnly="True" Grid.RowSpan="2"/>
+
+        <!-- Botones -->
+        <StackPanel Grid.Row="6" Grid.ColumnSpan="3" Orientation="Horizontal" HorizontalAlignment="Left" Margin="15,20,0,0" Width="300" >
+            <Button Content="Operar" Width="80" Margin="10,0" Click="Operar_Click"/>
+            <Button Content="Limpiar" Width="80" Margin="10,0" Click="Limpiar_Click"/>
+            <Button Content="Salir" Width="80" Margin="10,0" Click="Salir_Click"/>
+        </StackPanel>
+        <Border BorderBrush="LightBlue" BorderThickness="5" Margin="0,0,0,-20" Grid.ColumnSpan="3" Grid.RowSpan="7"/>
+    </Grid>
+</Window>
